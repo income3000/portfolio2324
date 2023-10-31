@@ -1,0 +1,44 @@
+
+
+bio {
+    background-color:yellow
+}
+
+h2{
+    animation-name: myanimation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    padding: 10px;
+    border-radius:15px;
+    font-size: xx-large;
+}
+h3{
+	background-color: blue;
+	animation-name: myanimation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+}
+ul {
+	text-align: left;
+
+	
+}
+@keyframes myanimation{
+    0% {background-color:white};
+    25%{background-color: red;}
+    50%{background-color:white}
+    75%{background-color:blue}
+
+
+}
+#div1{
+    display:flex;
+    text-align:center;
+
+}
+#worktitle{
+    text-align: left;
+    text-decoration: underline;
+}
