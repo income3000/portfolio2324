@@ -4,9 +4,11 @@
 .nav {
 	text-align: left;
 	display: inline-blockgroup; 
-	margin-right: 100px;
+	background-color: grey;
 
-	
+	}
 
+.button { 
+	background-color: grey;
 
 }

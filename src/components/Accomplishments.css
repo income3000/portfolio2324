@@ -1,7 +1,19 @@
 
 
-
-.div {
-	color: #000000;
-	font-family: cursive;
+.card {
+	height: 500px;
+	width: 18rem;
+	display: inline-block;
+	border-radius: 15;
+	
 }
+
+.card-body {
+	color: white;
+	background-color: navy;
+	width: 18rem;
+	height: 500px;
+	
+	}
+
+
