@@ -2,7 +2,7 @@ import './App.css';
 import Accomplishments from "./components/Accomplishments";
 import Bio from "./components/Bio";
 import Home from './components/Home';
-import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
 
 
